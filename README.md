@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sun-28
 - 👀 I’m interested in software and web development
-- 🌱 I’m currently learning java and java scripts
+- 🌱 I’m currently learning MERN STACK and LINUX
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
