@@ -1,8 +1,3 @@
-
-<p align="center">
-<img src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif" width="500">
-<br><br>
-</p>
 <h1 align="center">Hi 👋, I'm Sunpreet Singh</h1>
 <h3 align="center">A passionate Tech Enthusiast</h3>
 <br/>
